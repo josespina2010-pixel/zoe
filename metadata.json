@@ -1,0 +1,6 @@
+{
+  "name": "Atempo — Catálogo Musical, Mapa y Asistente IA",
+  "description": "Sistema web dinámico para tiendas de instrumentos musicales, estudios de grabación y escuelas de música con Supabase, Google Maps y asistente inteligente Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
